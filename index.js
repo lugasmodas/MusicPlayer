@@ -1,0 +1,1 @@
+window.musicPlayerController = new MusicPlayerController();
